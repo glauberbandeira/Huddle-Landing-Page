@@ -2,11 +2,11 @@
 
 # Desktop
 
-![](caminho até a imagem)
+![](https://github.com/glauberbandeira/Huddle-Landing-Page/blob/master/images/capture-web.jpeg)
 
 # Mobile
 
-![](caminho até a imagem)
+![](https://github.com/glauberbandeira/Huddle-Landing-Page/blob/master/images/capture-mobile.jpeg)
 
 Desafio proposto pelo site Frontend Mentor, no qual o objetivo era criar um site responsivo, igual o proposto pelo designer.
 
